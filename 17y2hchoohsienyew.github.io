@@ -6,7 +6,7 @@
   </head>
   <body>
 <h1>Welcome to my home</h1>
-    <img src="photo of me"/>
+    <img src="photo of me.jpg"/>
     <h2>About</h2>
     <p>My name is Choo Hsien Yew</p>
     <p>I am a 14 year old student in <a href="dunmanhigh.moe.edu.sg">Dunman High School</a>, Singapore</p>
